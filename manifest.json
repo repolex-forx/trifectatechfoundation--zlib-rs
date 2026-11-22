@@ -144,6 +144,81 @@
       ],
       "ast": [
         "aggregate/ast/734b2c1f42e2efaafe04cbab9c61cfaa5dead9ad/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/734b2c1f42e2efaafe04cbab9c61cfaa5dead9ad.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "quickcheck",
+          "ecosystem": "CARGO",
+          "version": "1.0.3",
+          "githubOrg": "BurntSushi",
+          "githubRepo": "quickcheck",
+          "githubCommit": "defde6fb0ce20b0c8c4e672aa9ae821f7d1f5b38",
+          "githubTag": "1.0.3",
+          "githubUrl": "https://github.com/BurntSushi/quickcheck",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quickcheck-1.0.3/src/tester.rs"
+        },
+        {
+          "packageName": "libc",
+          "ecosystem": "CARGO",
+          "version": "0.2.171",
+          "githubOrg": "rust-lang",
+          "githubRepo": "libc",
+          "githubCommit": "78b0f8a7397e177ff487f1a70a22a67ae5638f72",
+          "githubTag": "0.2.171",
+          "githubUrl": "https://github.com/rust-lang/libc",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libc-0.2.171/src/unix/mod.rs"
+        },
+        {
+          "packageName": "tempfile",
+          "ecosystem": "CARGO",
+          "version": "3.19.1",
+          "githubOrg": "Stebalien",
+          "githubRepo": "tempfile",
+          "githubCommit": "95540ed3fcb9ca74845c02aee058726b2dca58b7",
+          "githubTag": "v3.19.1",
+          "githubUrl": "https://github.com/Stebalien/tempfile",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tempfile-3.19.1/src/dir/mod.rs"
+        },
+        {
+          "packageName": "libz-sys",
+          "ecosystem": "CARGO",
+          "version": "1.1.29",
+          "githubOrg": "rust-lang",
+          "githubRepo": "libz-sys",
+          "githubCommit": "c589ac52bdf9f735dfc2858487e9b1f33b40c5cd",
+          "githubTag": "1.1.29",
+          "githubUrl": "https://github.com/rust-lang/libz-sys",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libz-sys-1.1.29/src/lib.rs"
+        },
+        {
+          "packageName": "crc32fast",
+          "ecosystem": "CARGO",
+          "version": "1.4.2",
+          "githubOrg": "srijs",
+          "githubRepo": "rust-crc32fast",
+          "githubCommit": "b0899ffddc050eca040c4fc23a37a058d3017ce9",
+          "githubTag": "v1.4.2",
+          "githubUrl": "https://github.com/srijs/rust-crc32fast",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/lib.rs"
+        },
+        {
+          "packageName": "memoffset",
+          "ecosystem": "CARGO",
+          "version": "0.9.1",
+          "githubOrg": "Gilnaa",
+          "githubRepo": "memoffset",
+          "githubCommit": "153fc3d50f03755be53148bc3eb97390f9011e45",
+          "githubTag": "v0.9.1",
+          "githubUrl": "https://github.com/Gilnaa/memoffset",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/memoffset-0.9.1/src/lib.rs"
+        }
       ]
     }
   ],
