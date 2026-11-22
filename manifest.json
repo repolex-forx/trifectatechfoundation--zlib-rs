@@ -219,7 +219,9 @@
           "source": "lsp",
           "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/memoffset-0.9.1/src/lib.rs"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/734b2c1f42e2efaafe04cbab9c61cfaa5dead9ad/chunk-001.nq.gz",
+      "dep": "dep/734b2c1f42e2efaafe04cbab9c61cfaa5dead9ad.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
